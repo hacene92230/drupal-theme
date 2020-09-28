@@ -4,9 +4,9 @@
 name: guinotda2
 type: theme
 # base theme: classy
-description: 'My Own Testing templates !!!.'
+description: 'Theme en test dev.'
 package: Core
-# version: VERSION
+# version: VERSION 1.0
 # core: 8.x
 
 regions:
@@ -15,7 +15,7 @@ regions:
   sidebar_first: 'Sidebar first'
   footer: Footer
 # Information added by Drupal.org packaging script on 2019-05-01
-version: '8.7.0'
+version: '1.0'
 core: '8.x'
 #project: 'drupal'
 #datestamp: 1556737125
